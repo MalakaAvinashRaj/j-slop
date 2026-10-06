@@ -1,0 +1,8 @@
+{
+  "name": "jev-linkedin-filter",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
